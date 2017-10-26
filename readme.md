@@ -5,4 +5,4 @@ techologies à apprendre :
 - wordpress
 - popcorn js
 
-*Pour l'instant, j'ai "wordressifié" un template html5up et modifié à ma sauce.*
+*Pour l'instant, j'ai "wordpressifié" un template html5up et modifié à ma sauce.*
