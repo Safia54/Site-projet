@@ -1,5 +1,5 @@
 <IfModule mod_rewrite.c>
 RewriteEngine On
-RewriteBase /C:/wamp64/www/html/oeuvre/Brussely/integration-wordpress-brussely/wp-content/wppa-pl
-RewriteRule ^New-Album/(.*) /C:/wamp64/www/html/oeuvre/Brussely/integration-wordpress-brussely/wp-content/uploads/wppa-source/album-1/$1 [NC]
+RewriteBase /C:/wamp64/www/html/site-projet/Brussely/integration-wordpress-brussely/wp-content/wppa-pl
+RewriteRule ^New-Album/(.*) /C:/wamp64/www/html/site-projet/Brussely/integration-wordpress-brussely/wp-content/uploads/wppa-source/album-1/$1 [NC]
 </IfModule>

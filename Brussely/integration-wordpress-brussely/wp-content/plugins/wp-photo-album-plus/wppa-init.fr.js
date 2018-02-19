@@ -96,7 +96,7 @@
 	wppaThemeStyles = "";
 	wppaStickyHeaderHeight = 0;
 	wppaRenderModal = false;
-	wppaModalQuitImg = "url(http://localhost/html/oeuvre/Brussely/integration-wordpress-brussely/wp-content/plugins/wp-photo-album-plus/img/smallcross-black.gif)";
+	wppaModalQuitImg = "url(http://localhost/html/site-projet/Brussely/integration-wordpress-brussely/wp-content/plugins/wp-photo-album-plus/img/smallcross-black.gif)";
 	wppaBoxRadius = "6";
 	wppaModalBgColor = "#ffffff";
 	wppaUploadEdit = "-none-";

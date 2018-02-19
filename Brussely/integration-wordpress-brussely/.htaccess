@@ -2,11 +2,11 @@
 # BEGIN WordPress
 <IfModule mod_rewrite.c>
 RewriteEngine On
-RewriteBase /html/oeuvre/Brussely/integration-wordpress-brussely/
+RewriteBase /html/site-projet/Brussely/integration-wordpress-brussely/
 RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /index.php [L]
+RewriteRule . /html/site-projet/Brussely/integration-wordpress-brussely/index.php [L]
 </IfModule>
 
 # END WordPress

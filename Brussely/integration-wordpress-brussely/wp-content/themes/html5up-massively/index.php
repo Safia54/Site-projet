@@ -31,7 +31,8 @@ get_header('header.php');
 					<header>
 						<span class="date">Posté le <?php the_date();?> à <?php the_time();?></span>
 						<h2><a href="<?php the_permalink();?>"> <?php the_title();?> </a></h2>
-						<span class="date"> Réalisé par <?php coauthors_posts_links();?> </span>
+						<span class="date"> Réalisé par <?php the_author_posts_link();?> </span>
+						<!-- La fonction coauteur fonctionnera si on installe le plugin <?php /* coauthors_posts_links(); */?> -->
 					</header>
 
 					<div class="appercu-container"> 
